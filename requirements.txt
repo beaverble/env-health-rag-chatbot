@@ -1,0 +1,14 @@
+numpy
+requests
+pandas
+geopy
+Flask
+openai
+mysql-connector-python
+SQLAlchemy
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+sentence-transformers
+faiss-cpu
